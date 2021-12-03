@@ -44,7 +44,7 @@ export default function Home() {
                 title="Share Your Story" 
                 href="https://appletoo.us"
                 wide
-                content="We are all here to help each other. You can still submit a story to #AppleToo, and it will be shared publicly if you choose."
+                content="You can still submit a story to #AppleToo, and it will be shared publicly if you choose."
             />
           <nav>
             <ul className={styles.nav}>
@@ -54,7 +54,7 @@ export default function Home() {
             </ul>
           </nav>
           <small className={styles.small}>
-            <a href="//appletoo.us/stories">#AppleToo Stories</a>•<a href="//appletoo.us/letter">#AppleToo Open Letter</a>
+            <a href="//appletoo.us/stories">#AppleToo Stories</a> • <a href="//appletoo.us/letter">#AppleToo Open Letter</a>
           </small>
         </div>
       </main>
