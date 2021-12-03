@@ -1,0 +1,39 @@
+.card {
+    border-radius: 18px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, .2);
+    width: 45%;
+    padding: 2rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.card p {
+    font-size: .875rem;
+}
+
+.icon {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 32px;
+    width: 46px;
+}
+
+.icon[data-icon="salary-negotiation"] {
+    height: 45px;
+    width: 46px;
+}
+
+.icon[data-icon="press-advice"] {
+    height: 42px;
+    width: 44px;
+}
+
+.icon[data-icon="open-letter"] {
+    height: 50px;
+    width: 43px;
+}
