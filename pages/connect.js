@@ -22,7 +22,6 @@ export default function Home() {
       </header>
       <main className={styles.main}>
         <div className={styles.content}>
-          <h3>Connect with Us</h3>
           <p>
               We&apos;ve been using an application called <a href="https://discord.com/">Discord</a> (like Slack) to gather off of our virtual campus. We&apos;ve shared our frustrations anonymously, and planned organizing more formally around shared concerns like Remote Work Advocacy.
           </p>
