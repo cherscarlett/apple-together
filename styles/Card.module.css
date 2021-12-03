@@ -8,7 +8,7 @@
     align-items: center;
     flex-direction: column;
     margin-bottom: 1rem;
-    min-width: 320px;
+    min-width: 280px;
 }
 
 .card p {
@@ -34,9 +34,9 @@
     width: 44px;
 }
 
-.icon[data-icon="open-letter"] {
-    height: 50px;
-    width: 43px;
+.icon[data-icon="legal-resources"] {
+    height: 42px;
+    width: 41px;
 }
 
 .icon[data-icon="disclosure-central"] {

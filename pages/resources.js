@@ -38,7 +38,7 @@ export default function Home() {
                 title="Wage Transparency Data" 
                 image="wage-transparency"
                 href="https://docs.google.com/spreadsheets/d/117puEC8mtxH8Ui90qToIvLQ31VOtFN7J5LwfHHlGZn0/"
-                content="The data collected from the survey that began in August of 2021. Please get the password from #talk-benefits in Slack."
+                content="The data collected from the survey in August of 2021. To add data, get the password from #talk-benefits in Slack."
             />
             <Card title="Salary Negotation Tool" 
                   image="salary-negotiation"
@@ -53,10 +53,10 @@ export default function Home() {
                 content="A collection of journalists we've vetted, and a list of advice in speaking out about workplace issues."
             />
             <Card 
-                title="#AppleToo Open Letter"
-                image="open-letter"
-                href="https://appletoo.us/letter" 
-                content="A list of workers' requests we wrote together and sent to Tim Cook and leadership in 2021, signed by 1,227 workers."
+                title="Legal Resources"
+                image="legal-resources"
+                href="https://github.com/cherscarlett/it-happens-here-too/blob/main/legal-resources.md" 
+                content="A compilation of crowd-sourced labor attorneys and information about national and international governing entities."
             />
           <nav>
             <ul className={styles.nav}>
@@ -66,7 +66,7 @@ export default function Home() {
             </ul>
           </nav>
           <small className={styles.small}>
-            <a href="//appletoo.us/stories">#AppleToo Stories</a>
+            <a href="//appletoo.us/stories">#AppleToo Stories</a>•<a href="//appletoo.us/letter">#AppleToo Open Letter</a>
           </small>
         </div>
       </main>

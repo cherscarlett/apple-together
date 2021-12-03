@@ -35,7 +35,7 @@ export default function Home() {
                 content="Join us in Apple Connect. You will be anonymously verified, but remember, nothing Apple Confidential, please!" 
             />
             <Card 
-                title="Ready to Organize" 
+                title="Gather Around Issues" 
                 image="disclosure-central"
                 href="https://discord.gg/4cJ5tBr8YT"
                 content="Join us in Disclosure Central. You'll need to be more formally verified, but we'll be discrete with your identity."
