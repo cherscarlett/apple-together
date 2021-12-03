@@ -24,7 +24,7 @@ export default function Home() {
         <div className={styles.content}>
           <h3>Connect with Us</h3>
           <p>
-              We&apos;ve been using an application called <a href="https://discord.com/">Discord</a> to gather off of our virtual campus. We&apos;ve shared our frustrations anonymously, and planned organizing more formally around shared concerns like Remote Work Advocacy.
+              We&apos;ve been using an application called <a href="https://discord.com/">Discord</a> (like Slack) to gather off of our virtual campus. We&apos;ve shared our frustrations anonymously, and planned organizing more formally around shared concerns like Remote Work Advocacy.
           </p>
           <p>
               All Apple workers are welcome to join us in either one, but we will need to vet that you are an Apple worker.
