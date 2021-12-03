@@ -12,10 +12,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.png" />
       </Head>
       <header>
+      <Link href="/">
         <h1 className={styles.logo}>
-          <a href="/"><Logo /></a>
+          <Logo />
           <span>Apple Together</span>
         </h1>
+      </Link>
         <h2 className={styles.title}>Resources</h2>
       </header>
       <main className={styles.main}>

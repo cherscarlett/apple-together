@@ -22,7 +22,7 @@ export default function Home() {
           <h3>We Make Apple, Apple</h3>
           <p>
             At Apple, we make incredible products and services. We pour ourselves into that
-            work, whether we are enriching customers’ lives at the Apple Store, animating rain for the next Keynote, plating lunch at Caffè Macs, or chatting with a customer to transfer their family videos from their iPhone to their MacBook.
+            work, whether we are enriching customers&apos; lives at the Apple Store, animating rain for the next Keynote, plating lunch at Caffè Macs, or chatting with a customer to transfer their family videos from their iPhone to their MacBook.
           </p>
           <p>
             Apple prides itself on its commitment to diversity, equity, and an environment
@@ -33,14 +33,14 @@ export default function Home() {
             stories. We are coming together to advocate for the changes we want to see at Apple.
           </p>
           <p>
-            We've organized internally on other important issues, too, and what we've seen is
+            We&apos;ve organized internally on other important issues, too, and what we&apos;ve seen is
             that when we stand in solidarity, we can be the company we love and believe in.
           </p>
           <p>
-            Apple celebrates its footprint of over 2.4 million workers. That's us; including more than 100,000 direct employees in the United States working under 22 executives.
+            Apple celebrates its footprint of over 2.4 million workers. That&apos;s us; including more than 100,000 direct employees in the United States working under 22 executives.
           </p>
           <p>
-            It's time to think equitable at Apple—together.
+            It&apos;s time to think equitable at Apple—together.
           </p>
           <nav>
             <ul className={styles.nav}>

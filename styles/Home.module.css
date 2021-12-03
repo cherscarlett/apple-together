@@ -59,6 +59,7 @@
 .logo svg {
   fill: url(#rainbow) #ffffff;
   height: 80px;
+  cursor: pointer;
 }
 
 .logo span {
