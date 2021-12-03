@@ -38,11 +38,12 @@ export default function Home() {
                 title="Gather Around Issues" 
                 image="disclosure-central"
                 href="https://discord.gg/4cJ5tBr8YT"
-                content="Join us in Disclosure Central. You'll need to be more formally verified, but we'll be discrete with your identity."
+                content="Join us in Disclosure Central. You'll need to be more formally verified, but we'll be discreet with your identity."
             />
             <Card 
                 title="Share Your Story" 
                 href="https://appletoo.us"
+                image="apple-too"
                 wide
                 content="You can still submit a story to #AppleToo, and it will be shared publicly (or not) depending on the level of consent you choose. Stories will continue to be digested in batches of 5 as we receive them."
             />

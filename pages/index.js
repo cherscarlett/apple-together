@@ -37,7 +37,7 @@ export default function Home() {
             that when we stand in solidarity, we can be the company we love and believe in.
           </p>
           <p>
-            Apple celebrates its footprint of over 2.4 million workers. That&apos;s us; including more than 100,000 direct employees in the United States working under 22 executives.
+            Apple celebrates its footprint of over 2.4 million workers. That&apos;s us: including more than 100,000 direct employees in the United States working under 22 executives.
           </p>
           <p>
             It&apos;s time to think equitable at Apple—together.

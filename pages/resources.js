@@ -44,7 +44,7 @@ export default function Home() {
                   image="salary-negotiation"
                   href="/Pay_Equity_Tools.zip"
                   download
-                  content="This tool is intended only to provide a rough estimate of the salary for your role, if you are in the Bay area."
+                  content="This tool is intended only to provide a rough estimate of the salary for your role if you are in the Bay area."
             />
             <Card 
                 title="Press Advice" 

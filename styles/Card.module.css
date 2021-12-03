@@ -47,8 +47,21 @@
 .card[data-wide="true"] {
     width: 94%;
     box-shadow: none;
+    flex-direction: row;
 }
 
-.card[data-wide="true"] h4 {
-    font-size: 2rem;
+.wideCard {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.card[data-wide="true"] p {
+    width: 65%;
+    margin-left: auto;
+    padding-left: 1rem;
+    border-left: 1px solid #e3e3e3;
 }
