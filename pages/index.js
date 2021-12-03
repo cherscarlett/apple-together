@@ -53,7 +53,7 @@ export default function Home() {
             </ul>
           </nav>
           <small className={styles.small}>
-            <a href="//appletoo.us/stories">#AppleToo Stories</a>
+            <a href="//appletoo.us/stories">#AppleToo Stories</a>•<a href="//appletoo.us/letter">#AppleToo Open Letter</a>
           </small>
         </div>
       </main>
