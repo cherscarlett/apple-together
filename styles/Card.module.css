@@ -43,3 +43,12 @@
     height: 43px;
     width: 45px;
 }
+
+.card[data-wide="true"] {
+    width: 94%;
+    box-shadow: none;
+}
+
+.card[data-wide="true"] h4 {
+    font-size: 2rem;
+}

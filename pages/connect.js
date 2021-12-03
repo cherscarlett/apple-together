@@ -40,6 +40,12 @@ export default function Home() {
                 href="https://discord.gg/4cJ5tBr8YT"
                 content="Join us in Disclosure Central. You'll need to be more formally verified, but we'll be discrete with your identity."
             />
+            <Card 
+                title="Share Your Story" 
+                href="https://appletoo.us"
+                wide
+                content="We are all here to help each other. You can still submit a story to #AppleToo, and it will be shared publicly if you choose."
+            />
           <nav>
             <ul className={styles.nav}>
               <li className={styles.resources}>
