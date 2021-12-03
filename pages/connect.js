@@ -44,7 +44,7 @@ export default function Home() {
                 title="Share Your Story" 
                 href="https://appletoo.us"
                 wide
-                content="You can still submit a story to #AppleToo, and it will be shared publicly if you choose."
+                content="You can still submit a story to #AppleToo, and it will be shared publicly (or not) depending on the level of consent you choose. Stories will continue to be digested in batches of 5 as we receive them."
             />
           <nav>
             <ul className={styles.nav}>
