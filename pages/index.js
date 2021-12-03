@@ -30,7 +30,7 @@ export default function Home() {
             We gathered our hurt teammates together to give space to tell their stories with #AppleToo, and have written letters together to make requests of our leadership.
           </p>
           <p>
-            In Slack, we're seeing an increase of rules restricting our ability to continue collaborating on workplace issues that are important to us. So we're making space off of our virtual campus.
+            In Slack, we're seeing an increase of rules restricting our ability to continue collaborating on workplace issues that are important to us. We're making our own space off of our virtual campus to ensure our voices can still to be heard.
           </p>
           <p>
             Apple celebrates its footprint of over 2.4 million workers. That&apos;s us: including more than 100,000 direct employees in the United States working under 22 executives.
