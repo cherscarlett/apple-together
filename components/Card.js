@@ -7,7 +7,7 @@ export default function Card({title, content, image, href, download, wide}) {
     const heading = (
         <>
             <div data-icon={image} className={styles.icon}>
-                <Image layout="fill" src={`/${image}.png`} />
+                <Image alt="" layout="fill" src={`/${image}.png`} />
              </div>
             <h4>{title}</h4>
         </>
