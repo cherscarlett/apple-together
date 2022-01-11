@@ -25,20 +25,17 @@ export default function Home() {
           <p>
               We&apos;ve been using an application called <a href="https://discord.com/">Discord</a> (like Slack) to gather off of our virtual campus. We&apos;ve shared our frustrations anonymously, and planned organizing more formally around shared concerns like Remote Work Advocacy.
           </p>
-          <p>
-              All current and former Apple workers are welcome to join us in either one, but we will need to vet you to keep our space safe and secure.
-          </p>
           <Card 
                 title="Anonymously Socialize" 
                 image="apple-connect"
                 href="https://discord.gg/SStTx9M"
-                content="Join us in Apple Connect. You will be anonymously verified, but remember, nothing Apple Confidential, please!" 
+                content="For all Apple, current and former. You will be anonymously verified, but remember, nothing Apple Confidential, please!" 
             />
             <Card 
                 title="Gather Around Issues" 
                 image="disclosure-central"
                 href="https://discord.gg/4cJ5tBr8YT"
-                content="Join us in Disclosure Central. You'll need to be more formally verified, but we'll be discreet with your identity."
+                content="Current Apple; no managers or HR. You'll need to be more formally verified, but we'll be discreet with your identity."
             />
             <Card 
                 title="Share Your Story" 
