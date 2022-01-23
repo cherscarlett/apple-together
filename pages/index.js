@@ -2,8 +2,11 @@ import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Logo from '../components/Logo';
 import Link from 'next/link';
+import { useState } from 'react';
 
 export default function Home() {
+  const [isBannerVisible, setIsBannerVisible] = useState(true);
+
   return (
     <div className={styles.container}>
       <Head>
@@ -15,8 +18,26 @@ export default function Home() {
           <Logo />
           <span>Apple Together</span>
         </h1>
-        <h2 className={styles.title}>From #AppleToo to Apple Together</h2>
+        {/* <h2 className={styles.title}>From #AppleToo to Apple Together</h2> */}
       </header>
+      { isBannerVisible &&
+        <div className={styles.banner}>
+          <Link href="/shareholders">
+              <a>
+                <h3>Hello, Apple Shareholders!</h3> 
+                <span>(if you owned vested AAPL stock as of January 3rd 2022, that’s you!)</span>
+                <div>
+                  <p>We’d like to draw attention to the upcoming annual meeting of shareholders and the fact that you have a say in the way the company operates.</p>
+                  <p>There are a number of important shareholder proposals to vote on this year, and the recommendations of the workers are aligned with human rights.</p>
+                  <strong>
+                    Read our recommendations &gt;
+                  </strong>
+                </div>
+              </a>
+          </Link>
+          <div className={styles.close} onClick={() => setIsBannerVisible(false)}>[X] Close</div>
+        </div>
+      }
       <main className={styles.main}>
         <div className={styles.content}>
           <h3>We Make Apple, Apple</h3>
@@ -46,7 +67,7 @@ export default function Home() {
             </ul>
           </nav>
           <small className={styles.small}>
-            <a href="//appletoo.us/stories">#AppleToo Stories</a> • <a href="//appletoo.us/letter">#AppleToo Open Letter</a>
+            <Link href="/shareholders">Shareholder Vote Guide</Link>  •  <a href="//appletoo.us/stories">#AppleToo Stories</a>  •  <a href="//appletoo.us/letter">#AppleToo Open Letter</a>
           </small>
         </div>
       </main>
