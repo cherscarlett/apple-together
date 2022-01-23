@@ -285,7 +285,9 @@ export default function Home() {
                 <h5>Proposal 10: Concealment Clauses Risks Report</h5>
                 <p>Apple&apos;s board recommends voting AGAINST this shareholder proposal entitled &quot;Report on Concealment Clauses.&quot;</p>
 
-                <p>We recommend voting <strong>FOR</strong>. This is a direct response to the Antonia García Martínez letter, Child Sexual Abuse Material (CSAM) policy, and data gathered in the pay equity surveys, and a lack of progress in diversifying its workforce, asking that Apple actually address what those movements were about.</p>
+                <p>We recommend voting <strong>FOR</strong>, as it is a direct response to AppleToo and is the source of former Apple Employee&apos;s SEC filing.</p>
+
+                <p>Apple uses concealment clauses in settlement agreements to prevent employees from speaking about their and their colleagues&apos; experiences. The proposal asks for a re-examination of that practice, since it puts the company at risk for getting sued and found criminally liable.</p>
                 
                 <p><strong>Proposal text:</strong> <a href="https://www.sec.gov/Archives/edgar/data/320193/000119312522003583/d222670ddef14a.htm#tx222670_36e">View on sec.gov &gt;</a></p>
 
