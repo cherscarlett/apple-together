@@ -25,9 +25,9 @@ export default function Home() {
           <Link href="/shareholders">
               <a>
                 <h3>Hello, Apple Shareholders!</h3> 
-                <span>(if you owned vested AAPL stock as of January 3rd 2022, that’s you!)</span>
+                <span>(if you owned vested AAPL stock as of January 3rd 2022, that&apos;s you!)</span>
                 <div>
-                  <p>We’d like to draw attention to the upcoming annual meeting of shareholders and the fact that you have a say in the way the company operates.</p>
+                  <p>We&apos;d like to draw attention to the upcoming annual meeting of shareholders and the fact that you have a say in the way the company operates.</p>
                   <p>There are a number of important shareholder proposals to vote on this year, and the recommendations of the workers are aligned with human rights.</p>
                   <strong>
                     Read our recommendations &gt;
