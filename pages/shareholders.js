@@ -133,7 +133,7 @@ export default function Home() {
                     
                     <li>
                         <h6>Ron Sugar</h6>
-                        <p>We recommend voting <strong>AGAINST</strong> her nomination. Sugar is a director of Chevron and the chairman of Uber, another company with a long and illustrious history of overexploiting workers.</p>
+                        <p>We recommend voting <strong>AGAINST</strong> his nomination. Sugar is a director of Chevron and the chairman of Uber, another company with a long and illustrious history of overexploiting workers.</p>
 
                         <strong>Read more:</strong> <br />
                         <a href="https://www.bloomberg.com/news/articles/2018-08-01/uber-names-northrop-grumman-s-ronald-sugar-as-board-chairman">Uber Names Ex-Northrop CEO Sugar as Chairman After Yearlong Hunt</a> <br />
@@ -194,10 +194,8 @@ export default function Home() {
                 <p><strong>Proposal text:</strong> <a href="https://www.sec.gov/Archives/edgar/data/320193/000119312522003583/d222670ddef14a.htm#tx222670_35">View on sec.gov &gt;</a></p>
 
                 <strong>Read more:</strong> <br />
-                <a href="https://www.reuters.com/technology/apples-tim-cook-paid-over-1400-times-average-worker-2021-2022-01-07/">Tim Cook earned over 1,400 times the average Apple worker in 2021</a> <br />
-                <a href="https://www.cnn.com/2021/08/27/investing/apple-ceo-tim-cook-shares-intl-hnk/index.html">Tim Cook gets $750 million bonus on 10th anniversary as Apple CEO</a><br />
-                <a href="https://www.theverge.com/c/22807871/apple-frontline-employees-retail-customer-service-pandemic">Apple&apos;s frontline employees are struggling to survive</a><br />
-                <a href="https://www.bloomberg.com/news/articles/2021-11-13/apple-to-pay-30-million-over-security-checks-for-store-workers">Apple to Pay $30 Million Over Store Workers&apos; Security Checks</a>
+                <a href="https://www.indeed.com/career-advice/career-development/employee-stock-purchase-plan#:~:text=An%20employee%20stock%20purchase%20plan%20(ESPP)%20is%20a%20benefit%20that,large%20investment%20in%20the%20company.">What is an employee stock purchase plan?</a> <br />
+                <a href="https://www.computershare.com/us/news-insights/insights/service-news/nine-reasons-to-offer-an-employee-stock-purchase-plan">Nine Reasons to Offer an Employee Stock Purchase Plan</a>
             </li>
 
             <li className={styles.for}>
@@ -270,7 +268,7 @@ export default function Home() {
                 <h5>Proposal 9: Civil Rights Audit</h5>
                 <p>Apple&apos;s board recommends voting AGAINST this shareholder proposal entitled &quot;Civil Rights Audit.&quot;</p>
 
-                <p>We recommend voting <strong>FOR</strong>. This is a direct response to the Antonia García Martínez letter, Child Sexual Abuse Material (CSAM) policy, and data gathered in the pay equity surveys, and a lack of progress in diversifying its workforce, asking that Apple actually address what those movements were about.</p>
+                <p>We recommend voting <strong>FOR</strong>. This is a direct response to the Antonio García Martínez letter, Child Sexual Abuse Material (CSAM) policy, and data gathered in the pay equity surveys, and a lack of progress in diversifying its workforce, asking that Apple actually address what those movements were about.</p>
                 
                 <p><strong>Proposal text:</strong> <a href="https://www.sec.gov/Archives/edgar/data/320193/000119312522003583/d222670ddef14a.htm#tx222670_36d">View on sec.gov &gt;</a></p>
 
