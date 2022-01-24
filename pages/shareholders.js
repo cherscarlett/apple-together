@@ -278,7 +278,8 @@ export default function Home() {
                 <p><strong>Proposal text:</strong> <a href="https://www.sec.gov/Archives/edgar/data/320193/000119312522003583/d222670ddef14a.htm#tx222670_36d">View on sec.gov &gt;</a></p>
 
                 <strong>Read more:</strong> <br />
-                <a href="https://www.newsweek.com/apple-investors-call-proof-that-company-actively-diversifying-workforce-1661979">Apple Investors Call for Proof That Company Is Actively Diversifying Workforce</a> <br />
+                <a href="https://www.newsweek.com/apple-investors-call-proof-that-company-actively-diversifying-workforce-1661979">Apple Investors Call for Proof That Company Is Actively Diversifying Workforce</a> <br />                
+                <a href="https://www.marketwatch.com/story/exclusive-apple-investors-call-for-civil-rights-audit-11640131895">Exclusive: Apple investors call for civil-rights audit</a><br />
                 <a href="https://www.bloomberg.com/news/articles/2021-03-25/apple-faces-indian-engineer-s-bias-lawsuit-over-her-heritage">Apple Faces Silicon Valley&apos;s Second South Asian Bias Lawsuit</a><br />
                 <a href="https://www.businessinsider.com/apple-employees-want-the-company-to-re-investigate-complaints-of-harassment-racism-2021-9">Apple employees want the company to re-investigate complaints of harassment, racism and abuse</a>
             </li>
@@ -296,7 +297,6 @@ export default function Home() {
 
                 <strong>Read more:</strong> <br />
                 <a href="https://www.marketwatch.com/story/sec-rejects-apples-argument-that-it-doesnt-try-to-silence-workers-after-former-employee-disputed-it-11640218188">SEC rejects Apple&apos;s argument that it doesn&apos;t try to silence workers after former employee disputed it</a> <br/>
-                <a href="https://www.marketwatch.com/story/exclusive-apple-investors-call-for-civil-rights-audit-11640131895">Exclusive: Apple investors call for civil-rights audit</a><br />
                 <a href="https://www.theverge.com/2021/9/8/22661536/apple-shareholder-resolution-change-nda-harassment-discrimination">Apple refuses to make NDA concessions for workplace harassment and discrimination</a> <br />
                 <a href="https://www.cfo.com/risk-compliance/2021/12/sec-allows-apple-shareholder-vote-on-ndas/">SEC Allows Apple Shareholder Vote on NDAs</a>
             </li>
