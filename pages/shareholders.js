@@ -296,6 +296,7 @@ export default function Home() {
 
                 <strong>Read more:</strong> <br />
                 <a href="https://www.marketwatch.com/story/sec-rejects-apples-argument-that-it-doesnt-try-to-silence-workers-after-former-employee-disputed-it-11640218188">SEC rejects Apple&apos;s argument that it doesn&apos;t try to silence workers after former employee disputed it</a> <br/>
+                <a href="https://www.marketwatch.com/story/exclusive-apple-investors-call-for-civil-rights-audit-11640131895">Exclusive: Apple investors call for civil-rights audit</a><br />
                 <a href="https://www.theverge.com/2021/9/8/22661536/apple-shareholder-resolution-change-nda-harassment-discrimination">Apple refuses to make NDA concessions for workplace harassment and discrimination</a> <br />
                 <a href="https://www.cfo.com/risk-compliance/2021/12/sec-allows-apple-shareholder-vote-on-ndas/">SEC Allows Apple Shareholder Vote on NDAs</a>
             </li>
