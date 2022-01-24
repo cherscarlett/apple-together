@@ -109,7 +109,7 @@ export default function Home() {
                         <h6>Andrea Jung</h6>
                         <p>We recommend voting <strong>FOR</strong> her nomination.  While Jung&apos;s involvement with multi-level marketing (Avon) might be off-putting to some, we appreciate her commitment to advocating for ending domestic and gender based violence. We hope this commitment to gender equality will allow for less retaliation, and dare we hope active address, at Apple when it comes to pay disparity.</p>
                         <strong>Read more:</strong> <br />
-                        <a href="https://charlierose.com/videos/11333">Andrea Jung&apos;s commitment to supporting victims of domestic violence.</a> <br />
+                        <a href="https://charlierose.com/videos/11333">Andrea Jung&apos;s commitment to supporting victims of domestic violence</a> <br />
                         <a href="https://www.futureswithoutviolence.org/teaming-up-with-avon-foundation-for-the-communications-x-change/">Teaming up with Avon Foundation for The Communications X-Change</a>
                     </li>
 
