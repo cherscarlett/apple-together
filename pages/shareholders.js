@@ -225,7 +225,7 @@ export default function Home() {
                 <h5>Proposal 6: Revisions to Transparency Reports</h5>
                 <p>Apple&apos;s board recommends voting AGAINST this shareholder proposal entitled &quot;Transparency Reports.&quot;</p>
 
-                <p>We recommend voting <strong>FOR</strong> which is about Chinese censorship and human rights, and calls for transparency in why Apple chooses to remove certain apps after the Chinese government asks them to. It is not only feasible, but if Apple believes in human rights, it is also obvious.</p>
+                <p>We recommend voting <strong>FOR</strong> this proposal, which is about Chinese censorship and human rights, and calls for transparency in why Apple chooses to remove certain apps after the Chinese government asks them to. It is not only feasible, but if Apple believes in human rights, it is also obvious.</p>
                 
                 <p><strong>Proposal text:</strong> <a href="https://www.sec.gov/Archives/edgar/data/320193/000119312522003583/d222670ddef14a.htm#tx222670_36a">View on sec.gov &gt;</a></p>
 
