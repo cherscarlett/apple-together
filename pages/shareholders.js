@@ -45,16 +45,16 @@ export default function Home() {
           </p>
           <h4>Voting Info and Recommendations</h4>
           <ol>
-            <li><a href="#1">Board Director Nominees</a></li>
+            <li><a href="#1">Board Director Nominees (see below)</a></li>
             <li><a href="#2">Ratification of Auditors</a></li>
-            <li><a href="#3">Executive Compensation</a></li>
-            <li><a href="#4">Approval of Employee Stock Plan</a></li>
+            <li><a href="#3">Executive Compensation ⛔</a></li>
+            <li><a href="#4">Approval of Employee Stock Plan ✅</a></li>
             <li><a href="#5">Social Purpose Corporation</a></li>
-            <li><a href="#6">Revisions to Transparency Reports</a></li>
-            <li><a href="#7">Forced Labor Report</a></li>
-            <li><a href="#8">Pay Gaps Report</a></li>
-            <li><a href="#9">Civil Rights Audit</a></li>
-            <li><a href="#10">Concealment Clauses Risks Report</a></li>
+            <li><a href="#6">Revisions to Transparency Reports ✅</a></li>
+            <li><a href="#7">Forced Labor Report ✅</a></li>
+            <li><a href="#8">Pay Gaps Report ✅</a></li>
+            <li><a href="#9">Civil Rights Audit ✅</a></li>
+            <li><a href="#10">Concealment Clauses Risks Report ✅</a></li>
           </ol>
           <ul>
             <li>
