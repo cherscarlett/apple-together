@@ -195,15 +195,20 @@ export default function Home() {
 
                 <strong>Read more:</strong> <br />
                 <a href="https://www.indeed.com/career-advice/career-development/employee-stock-purchase-plan#:~:text=An%20employee%20stock%20purchase%20plan%20(ESPP)%20is%20a%20benefit%20that,large%20investment%20in%20the%20company.">What is an employee stock purchase plan?</a> <br />
-                <a href="https://www.computershare.com/us/news-insights/insights/service-news/nine-reasons-to-offer-an-employee-stock-purchase-plan">Nine Reasons to Offer an Employee Stock Purchase Plan</a>
+                <a href="https://www.computershare.com/us/news-insights/insights/service-news/nine-reasons-to-offer-an-employee-stock-purchase-plan">Nine Reasons to Offer an Employee Stock Purchase Plan</a><br />
+                <a href="https://www.indeed.com/career-advice/career-development/rsu#:~:text=Advantages%20of%20RSUs,if%20you%20leave%20that%20company.">Advantages of RSUs</a>
             </li>
 
-            <li className={styles.for}>
+            <li className={styles.neutral}>
                 <a name="5" />
                 <h5>Proposal 5: Social Purpose Corporation</h5>
                 <p>Apple&apos;s board recommends voting AGAINST this shareholder proposal entitled &quot;Reincorporate with Deeper Purpose.&quot;</p>
 
-                <p>We recommend voting <strong>FOR</strong> the approval. Although we understand this one&apos;s a little &quot;pie in the sky&quot;, the idea of codifying social values in the incorporation statement is promising. It also explicitly calls out that Apple needs to listen to workers&apos; voices.</p>
+                <p>We don't have a recommendation on the approval.</p> 
+
+                <p>We understand this one&apos;s a little &quot;pie in the sky&quot;, but the idea of codifying social values in the incorporation statement is promising. </p>
+                
+                <p>It also explicitly calls out that Apple needs to listen to workers&apos; voices, which we appreciate, but find that the necessary changes to make Apple ready to restructure as a SPC are among the other proposals listed, and need to be carried out before-hand.</p>
                 
                 <p><strong>Proposal text:</strong> <a href="https://www.sec.gov/Archives/edgar/data/320193/000119312522003583/d222670ddef14a.htm#tx222670_36">View on sec.gov &gt;</a></p>
 
