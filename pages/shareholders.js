@@ -273,7 +273,7 @@ export default function Home() {
                 <h5>Proposal 9: Civil Rights Audit</h5>
                 <p>Apple&apos;s board recommends voting AGAINST this shareholder proposal entitled &quot;Civil Rights Audit.&quot;</p>
 
-                <p>We recommend voting <strong>FOR</strong>. This is a direct response to the Antonio García Martínez letter, Child Sexual Abuse Material (CSAM) policy, and data gathered in the pay equity surveys, and a lack of progress in diversifying its workforce, asking that Apple actually address what those movements were about.</p>
+                <p>We recommend voting <strong>FOR</strong>. This is a direct response to the Antonio García Martínez letter, data gathered in the pay equity surveys, and a lack of progress in diversifying its workforce, asking that Apple actually address what those movements were about.</p>
                 
                 <p><strong>Proposal text:</strong> <a href="https://www.sec.gov/Archives/edgar/data/320193/000119312522003583/d222670ddef14a.htm#tx222670_36d">View on sec.gov &gt;</a></p>
 
