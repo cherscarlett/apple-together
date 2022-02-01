@@ -204,7 +204,7 @@ export default function Home() {
                 <h5>Proposal 5: Social Purpose Corporation</h5>
                 <p>Apple&apos;s board recommends voting AGAINST this shareholder proposal entitled &quot;Reincorporate with Deeper Purpose.&quot;</p>
 
-                <p>We don't have a recommendation on the approval.</p> 
+                <p>We don&apos;t have a recommendation on the approval.</p> 
 
                 <p>We understand this one&apos;s a little &quot;pie in the sky&quot;, but the idea of codifying social values in the incorporation statement is promising. </p>
                 
