@@ -34,7 +34,7 @@ export default function Home() {
             <Card 
                 title="Gather Around Issues" 
                 image="disclosure-central"
-                href="https://discord.gg/4cJ5tBr8YT"
+                href="https://discord.gg/RYwNxYFm7c"
                 content="Current Apple; no managers or HR. You'll need to be more formally verified, but we'll be discreet with your identity."
             />
             <Card 
