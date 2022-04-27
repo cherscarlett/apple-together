@@ -3,6 +3,7 @@ import styles from '../styles/Home.module.css';
 import Card from '../components/Card';
 import Logo from '../components/Logo';
 import Link from 'next/link';
+import FooterLinks from '../components/FooterLinks';
 
 export default function Home() {
   return (
@@ -51,9 +52,7 @@ export default function Home() {
               </li>
             </ul>
           </nav>
-          <small className={styles.small}>
-            <a href="//appletoo.us/stories">#AppleToo Stories</a> • <a href="//appletoo.us/letter">#AppleToo Open Letter</a>
-          </small>
+          <FooterLinks />
         </div>
       </main>
     </div>

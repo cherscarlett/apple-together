@@ -142,6 +142,7 @@
 }
 
 .small {
+  font-size: smaller;
   width: 100%;
   padding: 1rem 0;
   display: flex;
@@ -151,6 +152,7 @@
 
 .small a {
   color: #696969;
+  margin: 5pt;
 }
 
 .banner {
@@ -212,4 +214,8 @@
 
 .neutral h5 {
   background-image: url(/question.png);
+}
+
+.rwaletter {
+  
 }
