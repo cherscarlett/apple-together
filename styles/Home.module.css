@@ -217,5 +217,23 @@
 }
 
 .rwaletter {
-  
+
+}
+
+.presurveybox {
+  margin-top: 50pt;
+  font-style: italic;
+  color: gray;
+  border-top: 1px solid #e3e3e3;
+}
+
+.typeformbox {
+  width: 100%;
+  height:  600px;
+}
+
+.letterlanguages a {
+  display: block;
+  float: right;
+  margin: 5pt;
 }

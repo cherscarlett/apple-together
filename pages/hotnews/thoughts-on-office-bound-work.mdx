@@ -2,7 +2,10 @@ import Head from 'next/head';
 import styles from '../../styles/Home.module.css';
 import Logo from '../../components/Logo';
 import Link from 'next/link';
-import FooterLinks from '../../components/FooterLinks';
+import LetterFooter from '../../components/LetterFooter';
+import LetterLanguages from '../../components/LetterLanguages';
+import { Widget } from '@typeform/embed-react'
+import Card from '../../components/Card';
 
 <div className={styles.container}>
   <Head>
@@ -22,6 +25,7 @@ import FooterLinks from '../../components/FooterLinks';
       <div className={styles.rwaletter}>
           
           
+<LetterLanguages/>
 
 ### Thoughts on <br/> Office-Bound Work
 
@@ -93,19 +97,9 @@ In the original “Returning to our offices” email, Tim said “we’d make su
 Now **we** ask **you**, the executive team, to show some flexibility as well and let go of the rigid policies of the hybrid working pilot. Stop trying to control how often you can see us in the office. Trust us, we know how each of our small contributions helps Apple succeed and what’s required to do so. Our direct managers trust us and in many cases would happily let us work in a more flexible setup. And why wouldn’t they, we’ve successfully done so for the last two years. Why don’t you?
 
 Or as Steve said: “It doesn't make sense to hire smart people and then tell them what to do. We hire smart people so they can tell us what to do.” Here we are, the smart people that you hired, and we are telling you what to do: Please get out of our way, there is no one-size-fits-all solution, let us decide how we work best, and let us do the best work of our lives. 
-      </div>
 
-      <nav>
-        <ul className={styles.nav}>
-          <li className={styles.resources}>
-            <Link href="/resources">Resources</Link>
-          </li>
-          <li className={styles.connect}>
-            <Link href="/connect">Connect</Link>
-          </li>
-        </ul>
-      </nav>
-      <FooterLinks />
+      </div>
+      <LetterFooter />
     </div>
   </main>
 </div>
