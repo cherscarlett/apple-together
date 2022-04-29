@@ -2,6 +2,7 @@ import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 import Logo from '../components/Logo';
 import Link from 'next/link';
+import FooterLinks from '../components/FooterLinks';
 
 export default function Home() {
   return (
@@ -311,9 +312,7 @@ export default function Home() {
               </li>
             </ul>
           </nav>
-          <small className={styles.small}>
-          <Link href="/shareholders">Shareholder Vote Guide</Link>  •  <a href="//appletoo.us/stories">#AppleToo Stories</a> • <a href="//appletoo.us/letter">#AppleToo Open Letter</a>
-          </small>
+          <FooterLinks />
         </div>
       </main>
     </div>

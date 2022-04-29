@@ -142,6 +142,7 @@
 }
 
 .small {
+  font-size: smaller;
   width: 100%;
   padding: 1rem 0;
   display: flex;
@@ -151,6 +152,7 @@
 
 .small a {
   color: #696969;
+  margin: 5pt;
 }
 
 .banner {
@@ -212,4 +214,55 @@
 
 .neutral h5 {
   background-image: url(/question.png);
+}
+
+.rwaletter {
+
+}
+
+iframe.surveyresult {
+  border-width: 0pt;
+}
+
+.rwaletter h3 {
+  clear:  both;
+  font-size: 30pt;
+}
+
+@media only screen and (max-width: 768px) {
+  .rwaletter h3 {
+    font-size: 20pt;
+  }
+}
+
+.presurveybox {
+  margin-top: 50pt;
+  font-style: italic;
+  color: gray;
+  border-top: 1px solid #e3e3e3;
+}
+
+.typeformbox {
+  width: 100%;
+  height:  600px;
+}
+
+.letterlanguages a {
+  display: block;
+  float: right;
+  margin: 5pt;
+}
+
+.surveycount {
+  text-align: center;
+  font-weight: bold;
+}
+
+.surveycount .count {
+  font-size: 300%;
+  margin-bottom: 0pt;
+}
+
+.surveycount span {
+  font-weight: lighter;
 }
