@@ -39,7 +39,7 @@ export default function LetterFooter() {
           title="Gather Around Issues" 
           image="disclosure-central"
           href="https://discord.gg/RYwNxYFm7c"
-          content="Current Apple; no managers or HR. You'll need to be more formally verified, but we'll be discreet with your identity."
+          content="Current Apple; no managers or HR. You&apos;ll need to be more formally verified, but we&apos;ll be discreet with your identity."
       />
 
 
