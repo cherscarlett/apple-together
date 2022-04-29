@@ -14,7 +14,7 @@ export default function LetterFooter() {
         <div className={styles.surveycount}>
             <p className={styles.count}>???</p>
             <p className={styles.text}>Signatures</p>
-            <span>Please sign below, we'll update the survey count manually from time to time based on the responses we get.</span>
+            <span>Please sign below, we&apos;ll update the survey count manually from time to time based on the responses we get.</span>
         </div>
 
         <div className={styles.presurveybox}>
@@ -24,7 +24,7 @@ export default function LetterFooter() {
       <Widget id="KAVtm8qc" className={styles.typeformbox} />
 
       <p>
-            Thank you for your support! If you work at Apple, we'd like to invite you to our <a href="https://discord.com/">Discord</a> servers below. 
+            Thank you for your support! If you work at Apple, we&apos;d like to invite you to our <a href="https://discord.com/">Discord</a> servers below. 
             Discord is very similar to Slack, but our servers are not controlled by Apple so we can speak more openly and came together to share our frustrations anonymously, and plan organizing more formally around shared concerns like Remote Work Advocacy.
 
             If are a current Apple worker and you do not feel comfortable joining our Discord servers, yet, consider joining the #remote-work-advocacy Slack channel (not accessible to all workspaces). 
@@ -39,7 +39,7 @@ export default function LetterFooter() {
           title="Gather Around Issues" 
           image="disclosure-central"
           href="https://discord.gg/RYwNxYFm7c"
-          content="Current Apple; no managers or HR. You&apos;ll need to be more formally verified, but we&apos;ll be discreet with your identity."
+          content="Current Apple; no managers or HR. You'll need to be more formally verified, but we'll be discreet with your identity."
       />
 
 
