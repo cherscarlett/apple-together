@@ -1,12 +1,9 @@
 import React from "react";
-import Head from 'next/head';
 import styles from '../styles/Home.module.css';
-import Logo from '../components/Logo';
 import Link from 'next/link';
 import FooterLinks from '../components/FooterLinks';
 import { Widget } from '@typeform/embed-react'
 import Card from '../components/Card';
-import Script from 'next/script'
 
 export default function LetterFooter() {
     return (
