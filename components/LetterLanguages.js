@@ -10,8 +10,11 @@ import Card from '../components/Card';
 export default function LetterLanguages() {
     return (
         <div className={styles.letterlanguages}>
+          <Link href="thoughts-on-office-bound-work-de">Deutsch</Link>
           <Link href="thoughts-on-office-bound-work">English</Link>
-          <Link href="thoughts-on-office-bound-work-de">German</Link>
+          <Link href="thoughts-on-office-bound-work-es">Español</Link>
+          {/*<Link href="thoughts-on-office-bound-work-fr">Français</Link>
+          <Link href="thoughts-on-office-bound-work-pt">Português</Link>*/}
         </div>
     )
 }

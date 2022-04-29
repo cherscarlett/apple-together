@@ -220,6 +220,21 @@
 
 }
 
+iframe.surveyresult {
+  border-width: 0pt;
+}
+
+.rwaletter h3 {
+  clear:  both;
+  font-size: 30pt;
+}
+
+@media only screen and (max-width: 768px) {
+  .rwaletter h3 {
+    font-size: 20pt;
+  }
+}
+
 .presurveybox {
   margin-top: 50pt;
   font-style: italic;
@@ -236,4 +251,18 @@
   display: block;
   float: right;
   margin: 5pt;
+}
+
+.surveycount {
+  text-align: center;
+  font-weight: bold;
+}
+
+.surveycount .count {
+  font-size: 300%;
+  margin-bottom: 0pt;
+}
+
+.surveycount span {
+  font-weight: lighter;
 }

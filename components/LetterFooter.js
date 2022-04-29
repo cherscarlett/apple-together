@@ -6,10 +6,17 @@ import Link from 'next/link';
 import FooterLinks from '../components/FooterLinks';
 import { Widget } from '@typeform/embed-react'
 import Card from '../components/Card';
+import Script from 'next/script'
 
 export default function LetterFooter() {
     return (
         <>
+        <div className={styles.surveycount}>
+            <p className={styles.count}>???</p>
+            <p className={styles.text}>Signatures</p>
+            <span>Please sign below, we'll update the survey count manually from time to time based on the responses we get.</span>
+        </div>
+
         <div className={styles.presurveybox}>
           We would like to ask you to show your support for location-flexible work and speak out against inflexible workplace policies by filling out the following survey.
       </div>
@@ -20,7 +27,7 @@ export default function LetterFooter() {
             Thank you for your support! If you work at Apple, we'd like to invite you to our <a href="https://discord.com/">Discord</a> servers below. 
             Discord is very similar to Slack, but our servers are not controlled by Apple so we can speak more openly and came together to share our frustrations anonymously, and plan organizing more formally around shared concerns like Remote Work Advocacy.
 
-            If are a current Apple worker and you do not feel comfortable joining our Discord servers yet, considers joining the #remote-work-advocacy Slack channel (not accessible to all workspaces). 
+            If are a current Apple worker and you do not feel comfortable joining our Discord servers, yet, consider joining the #remote-work-advocacy Slack channel (not accessible to all workspaces). 
       </p>
       <Card 
             title="Anonymously Socialize" 
