@@ -9,8 +9,9 @@ export default function LetterFooter() {
     return (
         <>
         <div className={styles.surveycount}>
-            <p className={styles.count}>???</p>
+            <p className={styles.count}>2057</p>
             <p className={styles.text}>Signatures</p>
+            <p className={styles.applecount}>1043 from current and former Apple employees</p>
             <span>Please sign below, we&apos;ll update the survey count manually from time to time based on the responses we get.</span>
         </div>
 
@@ -19,6 +20,10 @@ export default function LetterFooter() {
       </div>
 
       <Widget id="KAVtm8qc" className={styles.typeformbox} />
+
+      <p>
+        <Link href="thoughts-on-office-bound-work-responses">Responses from other signees</Link>
+      </p>
 
       <p>
             Thank you for your support! If you work at Apple, we&apos;d like to invite you to our <a href="https://discord.com/">Discord</a> servers below. 

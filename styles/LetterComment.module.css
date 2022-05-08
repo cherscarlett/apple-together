@@ -1,0 +1,34 @@
+blockquote.lettercomment::before {
+    content: "\201C"; /*Unicode for Left Double Quote*/
+
+    font-family: Georgia, serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #999;
+
+    position: absolute;
+    left: -20pt;
+    top:5px;
+}
+
+.lettercomment {
+    clear: both;
+    margin-bottom: 10pt;
+    font-style: italic;
+
+    position: relative;
+
+    padding: 15px 0px 15px 0px;
+}
+
+.lettercomment .author {
+    float: right;
+    font-style: normal;
+    margin-top: 5pt;
+    margin-left: 10pt;
+}
+
+.lettercommentfootnote {
+    font-style: italic;
+    color: gray;
+}
