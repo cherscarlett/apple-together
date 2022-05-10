@@ -9,9 +9,9 @@ export default function LetterFooter() {
     return (
         <>
         <div className={styles.surveycount}>
-            <p className={styles.count}>2057</p>
+            <p className={styles.count}>2834</p>
             <p className={styles.text}>Signatures</p>
-            <p className={styles.applecount}>1043 from current and former Apple employees</p>
+            <p className={styles.applecount}>1327 from current and former Apple employees</p>
             <span>Please sign below, we&apos;ll update the survey count manually from time to time based on the responses we get.</span>
         </div>
 
