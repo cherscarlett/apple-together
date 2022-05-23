@@ -9,14 +9,14 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Apple Together: Connect</title>
+        <title>AppleTogether: Connect</title>
         <link rel="icon" href="/favicon.png" />
       </Head>
       <header>
         <Link passHref href="/">
             <h1 className={styles.logo}>
                 <Logo />
-                <span>Apple Together</span>
+                <span>AppleTogether</span>
             </h1>
         </Link>
         <h2 className={styles.title}>Connect</h2>

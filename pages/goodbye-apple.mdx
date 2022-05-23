@@ -1,0 +1,77 @@
+import Head from 'next/head';
+import styles from '../styles/Home.module.css';
+import Logo from '../components/Logo';
+import Link from 'next/link';
+import { Widget } from '@typeform/embed-react'
+import Card from '../components/Card';
+import FooterLinks from '../components/FooterLinks';
+
+<div className={styles.container}>
+  <Head>
+    <title>AppleTogether: Collecting Goodbye Messages From Former Apple Employees</title>
+    <link rel="icon" href="/favicon.png" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@AppleLaborers" />
+    <meta name="twitter:title" content="Collecting Goodbye Messages From Former Apple Employees" />
+    <meta name="twitter:description" content="AppleTogether is gathering stories from people who have left Apple due its inflexibility around remote work. If this is you, we’d love to hear from you." />
+  </Head>
+  <header>
+    <Link passHref href="/">
+      <h1 className={styles.logo}>
+        <Logo />
+        <span>AppleTogether</span>
+      </h1>
+    </Link>
+  </header>
+  <main className={styles.main}>
+    <div className={styles.content}>
+      <div className={styles.rwaletter}>
+          
+
+### Collecting Goodbye Messages From Former Apple Employees
+
+Hi there,
+
+You likely came here because you recently left Apple due to the executive team’s inflexible remote work policy, or because you know someone who did.
+
+We are AppleTogether, a solidarity union of workers from all parts of Apple. You can learn more about us [here](/).
+
+We want to give our former colleagues, who have left Apple due to the executive team's forced return to office (RTO) policies, a way to say goodbye, to explain why they left, and to show that we miss them and are sorry they were forced to leave.
+
+We are publishing their stories to push Apple to do better. 
+
+If you have left Apple due to RTO or Apple’s inflexible policies, please fill out the survey below.
+
+The survey asks you to fill out the following details
+* Your name (required, but kept private)
+* Some way to verify that you are you and you worked for Apple
+* At least one of the following three:
+  * A statement
+  * A name
+  * A profile picture
+
+We need at least one of the statement, name and profile picture to be able to include you on the webpage. If you provide only one, we’ll publish only that piece of information, e.g. just your name, or just your picture or just your anonymous statement. You can choose any combination of the three items, but if you feel comfortable providing all three, we believe this would send the strongest message.
+
+If you don’t feel comfortable providing this information via a survey on the internet, you can also email us directly at goodbyeapple@appletogether.org.
+
+We plan to publish all stories, names and pictures we receive here on this page by May 31st. To make sure your story can be included, please send it to us by May 29th. Otherwise, we’ll just add it later. 
+
+
+        <button data-tf-popup="z6mZJgGv" data-tf-auto-close data-tf-iframe-props="title=Goodbye Apple" data-tf-medium="snippet" className={styles.goodByeAppleSurveyButton}>Leave a "Goodbye Apple" Message</button><script src="//embed.typeform.com/next/embed.js"></script>
+
+        <nav>
+        <ul className={styles.nav}>
+          <li className={styles.resources}>
+            <Link href="/resources">Resources</Link>
+          </li>
+          <li className={styles.connect}>
+            <Link href="/connect">Connect</Link>
+          </li>
+        </ul>
+      </nav>
+      <FooterLinks />
+
+      </div>
+    </div>
+  </main>
+</div>

@@ -150,9 +150,20 @@
   justify-content: center;
 }
 
-.small a {
+footer.small {
+  font-size: smaller;
+  width: 100%;
+  padding: 1rem 0;
+  display: block;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+footer.small a {
   color: #696969;
-  margin: 5pt;
+  margin: 10pt;
+  max-width: 40%;
+  float: left;
 }
 
 .banner {
@@ -269,4 +280,34 @@ iframe.surveyresult {
 
 .applecount {
   color: gray;
+}
+
+.goodByeAppleSurveyButton {
+  all:unset;
+  font-family:Helvetica,Arial,sans-serif;
+  display:block;
+  max-width:100%;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  background-color:#0445AF;
+  color:#FFFFFF;
+  font-size:18px;
+  border-radius:22px;
+  padding:0 30px;
+  font-weight:bold;
+  height:45px;
+  cursor:pointer;
+  text-align:center;
+  margin:50px auto 10px auto;
+  text-decoration:none;
+}
+
+@media only screen and (max-width: 500px) {
+  .goodByeAppleSurveyButton {
+    font-size: 12pt;
+    padding:5px 15px;
+    white-space: inherit;
+    height:inherit;
+  }
 }
